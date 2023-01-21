@@ -60,3 +60,31 @@ project.assets.json
 *.csproj
 obj
 net6.0
+obj/project.assets.json
+obj/project.nuget.cache
+obj/Sem.5. Функции и массивы.csproj.nuget.dgspec.json
+obj/Sem.5. Функции и массивы.csproj.nuget.g.props
+obj/Sem.5. Функции и массивы.csproj.nuget.g.targets
+obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+obj/Debug/net6.0/apphost.exe
+obj/Debug/net6.0/Sem.5. Функции и массивы.AssemblyInfo.cs
+obj/Debug/net6.0/Sem.5. Функции и массивы.AssemblyInfoInputs.cache
+obj/Debug/net6.0/Sem.5. Функции и массивы.assets.cache
+obj/Debug/net6.0/Sem.5. Функции и массивы.csproj.AssemblyReference.cache
+obj/Debug/net6.0/Sem.5. Функции и массивы.csproj.CoreCompileInputs.cache
+obj/Debug/net6.0/Sem.5. Функции и массивы.csproj.FileListAbsolute.txt
+obj/Debug/net6.0/Sem.5. Функции и массивы.dll
+obj/Debug/net6.0/Sem.5. Функции и массивы.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0/Sem.5. Функции и массивы.genruntimeconfig.cache
+obj/Debug/net6.0/Sem.5. Функции и массивы.GlobalUsings.g.cs
+obj/Debug/net6.0/Sem.5. Функции и массивы.pdb
+obj/Debug/net6.0/ref/Sem.5. Функции и массивы.dll
+obj/Debug/net6.0/refint/Sem.5. Функции и массивы.dll
+.vscode/launch.json
+.vscode/tasks.json
+bin/Debug/net6.0/Sem.5. Функции и массивы.deps.json
+bin/Debug/net6.0/Sem.5. Функции и массивы.dll
+bin/Debug/net6.0/Sem.5. Функции и массивы.exe
+bin/Debug/net6.0/Sem.5. Функции и массивы.pdb
+bin/Debug/net6.0/Sem.5. Функции и массивы.runtimeconfig.json
+Sem.5. Функции и массивы.csproj
