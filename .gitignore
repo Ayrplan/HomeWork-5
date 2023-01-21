@@ -52,7 +52,6 @@ Mkfile.old
 dkms.conf
 *.vscode/
 HomeWork#5.csproj
-*.obj/
 project.nuget.cache
 project.assets.json
 *.csproj.nuget.g.targets
