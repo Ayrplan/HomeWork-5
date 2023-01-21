@@ -59,3 +59,5 @@ project.assets.json
 *.csproj.nuget.g.props
 *.csproj.nuget.dgspec.json
 *.csproj
+obj
+net6.0
